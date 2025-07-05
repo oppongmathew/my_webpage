@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(206, 201, 201);
+    margin: 30px;
+}
+
+
+#main_heading {
+    margin-bottom: 25px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 5px 5px 5px rgb(33, 32, 32);
+     padding: 10px;
+    border: 2px  #4169e1;
+    border-radius: 50px;
+    background-color: #4169e1;
+    color: #e9f5f8;
+}
+
+h2 {
+    color: #1e7cbe;
+    margin-top: 35px;
+    margin-bottom: 5px;
+}
+
+li {
+    font-size: 17px;
+    line-height: 2.0;
+}
+
+.my_pic {
+    width: 350px;
+    border: 3px solid #4682b4;
+    padding: 10px;
+    margin: 30px ;
+    display: block;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px;
+    line-height: 2;
+    margin-left: 15px;
+}
+
+
+td{
+    border: 1px solid #43694f;
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background-color: #5f9ea0;
+    color: white;
+}
+
+.overview {
+    background-color: #e9f5f8;
+    padding: 15px;
+    border-left: 5px solid #3498db;
+    margin-bottom: 20px;
+     border-right: 5px solid #3498db;
+     line-height: 1.5;
+}
+
+.jump-link {
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+a :hover{
+    color: red;
+}
+
+a {
+     text-decoration: none;
+}
+
+a :active {
+    color: rgb(252, 251, 249);
+}
